@@ -1,7 +1,11 @@
 # Michigan Building Detection
 
+This is repository 1 of 3 for this case study.
 Building detection from NAIP aerial imagery using a U-Net model, with PUMA- and
 block-group-level estimation for survey research (NCSES small area estimation).
+
+Find repo 2 here: https://github.com/MDI-BJarosz/INFS-CS4-LLMSurveyAssist/blob/main/README.md
+And repo 3 here: https://github.com/MDI-BJarosz/INFS-CS2c-CommercialVendorData
 
 ## Overview
 
